@@ -33,3 +33,4 @@
 main
 Main.dsym
 .vscode
+.DS_Store
